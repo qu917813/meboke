@@ -42,13 +42,13 @@ const pages = resolvePageToggles({
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Firefly",
+	title: "SYSTEM-XieAx-PE的博客",
 
 	// 站点副标题
-	subtitle: "Demo site",
+	subtitle: "一个平平无奇的小博客",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: "https://blog.ccynb.dpdns.org",
 
 	// 站点描述
 	description:
@@ -63,6 +63,10 @@ export const siteConfig: SiteConfig = {
 		"博客",
 		"技术博客",
 		"静态博客",
+		"系统圈",
+		"Windows",
+		"SYSTEM",
+		"SYSTEM-XieAx-PE",
 	],
 
 	// 主题色

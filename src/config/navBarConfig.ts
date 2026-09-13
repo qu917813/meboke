@@ -37,18 +37,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 	});
 
 	//社交及其子菜单
-	links.push({
-		name: "社交",
-		url: "#",
-		icon: "material-symbols:group",
-		children: [
-			// 友链
-			LinkPresets.Friends,
 
-			// 留言
-			LinkPresets.Guestbook,
-		],
-	});
 
 	// 我的及其子菜单
 	links.push({
@@ -88,10 +77,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		url: "#",
 		icon: "material-symbols:info",
 		children: [
-			// 打赏
-			LinkPresets.Sponsor,
 
-			// 关于页面
 			LinkPresets.About,
 		],
 	});
