@@ -48,7 +48,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "一个平平无奇的小博客",
 
 	// 站点 URL
-	site_url: "https://blog.ccynb.dpdns.org",
+	site_url: "https://myblog.ccynb.dpdns.org",
 
 	// 站点描述
 	description:
