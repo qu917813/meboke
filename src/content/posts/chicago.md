@@ -48,7 +48,7 @@ CHICAGO不需要网络（用网络也行，但是我不会）
 启动虚拟机！
 
 然后会来到这里
-[![pn3Yy1f.png](https://s41.ax1x.com/2026/09/26/pn3Yy1f.png)](https://imgchr.com/i/pn3Yy1f)
+[![pn3olE4.png](https://s41.ax1x.com/2026/09/27/pn3olE4.png)](https://imgchr.com/i/pn3olE4)
 
 选择第三项
 
@@ -83,7 +83,7 @@ skip跳过
 按ok重启
 
 此时来到这个页面
-[![pn3Yy1f.png](https://s41.ax1x.com/2026/09/26/pn3Yy1f.png)](https://imgchr.com/i/pn3Yy1f)
+[![pn3olE4.png](https://s41.ax1x.com/2026/09/27/pn3olE4.png)](https://imgchr.com/i/pn3olE4)
 
 我们关虚拟机，编辑虚拟机配置，把软盘删了
 [![pn3YhAs.png](https://s41.ax1x.com/2026/09/26/pn3YhAs.png)](https://imgchr.com/i/pn3YhAs)
