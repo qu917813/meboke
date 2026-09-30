@@ -1,6 +1,7 @@
 ---
 title: Windows CHICAGO Build 58s安装教程
 published: 2026-09-12
+updated: 2026-09-30
 description: 安装测试版win95 build 58s
 tags: [测试版, Windows]
 category: 虚拟机
@@ -8,6 +9,18 @@ draft: false
 pinned: false
 ---
 CHICAGO作为我的**开山之作**，肯定要教一下如何安装
+
+<div style="position: relative; width: 100%; max-width: 1200px; margin: 1.5rem auto; padding-bottom: 56.25%; height: 0;">
+  <iframe
+    src="https://player.bilibili.com/player.html?isOutside=true&aid=117261482466180&bvid=BV1dbYY6MED2&cid=41844084485&p=1"
+    scrolling="no"
+    border="0"
+    frameborder="no"
+    framespacing="0"
+    allowfullscreen="true"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;">
+  </iframe>
+</div>
 
 ## Part 1: 下载地址
 **CHICAGO 58s**：https://winworldpc.com/download/42c2b8c3-90c2-b218-c39a-11c3a4e284a2
